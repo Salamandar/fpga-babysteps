@@ -29,10 +29,10 @@ set_io --warn-no-port SPI_SS R12
 # J1
 # set_io --warn-no-port J1_1  3.3V
 # set_io --warn-no-port J1_2 GND
-#set_io --warn-no-port J1_3 112  # PIO0_02 
-#set_io --warn-no-port J1_4 113  # PIO0_03 
-#set_io --warn-no-port J1_5 114  # PIO0_04 
-#set_io --warn-no-port J1_6 115  # PIO0_05 
+#set_io --warn-no-port J1_3 112  # PIO0_02
+#set_io --warn-no-port J1_4 113  # PIO0_03
+#set_io --warn-no-port J1_5 114  # PIO0_04
+#set_io --warn-no-port J1_6 115  # PIO0_05
 #set_io --warn-no-port J1_7 116  # PIO0_06 PMOD pin 7
 #set_io --warn-no-port J1_8 117  # PIO0_07 PMOD pin 8
 #set_io --warn-no-port J1_9 118  # PIO0_08 PMOD pin 9
